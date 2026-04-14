@@ -46,10 +46,6 @@ walmart-retail-data-pipeline/
 ├── output/
 │ ├── clean_data.csv
 │ ├── agg_data.csv
-│ ├── dim_date.csv
-│ ├── dim_dept.csv
-│ ├── dim_store.csv
-│ └── fact_sales.csv
 │
 ├── scripts/
 │ └── pipeline.py
